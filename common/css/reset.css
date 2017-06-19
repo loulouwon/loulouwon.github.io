@@ -1,0 +1,42 @@
+/* reset */
+header,footer,section,article,aside,nav,hgroup,details,menu,figure,figcaption{display:block}
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,th,td,form,fieldset,legend,input,textarea,button,select{margin:0;padding:0}
+body,input,textarea,select,button,table{font-size:14px;line-height:1.25em;font-family:'NanumBarunGothic','Dotum',Arial,sans-serif}
+body{color:#000;-webkit-text-size-adjust:none}
+img,fieldset{border:0} 
+ul,ol{list-style:none} 
+em,address{font-style:normal} 
+a{color:#000;text-decoration:none} 
+table{border-collapse:collapse;table-layout:fixed;word-break:break-all}
+caption{visibility:hidden;overflow:hidden;width:0;height:0;font-size:0;line-height:0;color:transparent}
+.skip{visibility:hidden;overflow:hidden;left:-999em;width:0;height:0;font-size:0;line-height:0} 
+.tx_skip{font-size:0px;line-height:0px;color:transparent}
+.tx_doc{overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+hr{display:none !important} 
+.fl{float:left}
+.fr{float:right}
+.ct{clear:both;width:100%} 
+.ct::after{display:block;clear:both;height:1px;margin-top:-1px;content:''}
+.al{text-align:left!important}
+.ac{text-align:center!important}
+.ar{text-align:right!important}
+.cur{cursor:pointer}
+input[type='checkbox'],input[type="radio"]{cursor:pointer; clear:both; overflow:hidden}
+
+@font-face {
+	font-family: 'NanumBarunGothic';
+	font-style: normal;
+	src: url('webfonts/NanumBarunGothic.eot');
+	src: url('webfonts/NanumBarunGothic.eot') format('embedded-opentype'),
+	url('webfonts/NanumBarunGothic.woff') format('woff'),
+	url('webfonts/NanumBarunGothic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'NanumBarunGothicBold';
+	font-style: normal;
+	src: url('webfonts/NanumBarunGothicBold.eot');
+	src: url('webfonts/NanumBarunGothicBold.eot') format('embedded-opentype'),
+	url('webfonts/NanumBarunGothicBold.woff') format('woff'),
+	url('webfonts/NanumBarunGothicBold.ttf') format('truetype');
+}
