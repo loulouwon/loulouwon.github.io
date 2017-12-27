@@ -1,4 +1,4 @@
-body{overflow-y:hidden}
+/*body{overflow-y:hidden}*/
 #wrap {position:relative;width:100%}
 
 #container{position:absolute;left:0;top:0}
