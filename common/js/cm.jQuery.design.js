@@ -15,8 +15,8 @@ $(function(){
     }
     //max_height_ck
     function max_height_ck(){
-        if(win_h >= max_height  ) $("#container article").height(win_h+"px");	//section높이 지정
-        if( win_w < win_h ) $("#container article").css("background-size","100%" +win_h+"px");
+        if(win_h >= max_height) $("#container article").height(win_h+"px");	//section높이 지정
+        if(win_w < win_h) $("#container article").css("background-size","100%" +win_h+"px");
     }
     //scroll_ck
     function scroll_ck(){
