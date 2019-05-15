@@ -49,6 +49,10 @@
 				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
 			}
 
+			a{
+				display:block;width:144px;height:24px;background:url('assets/images/logo.png') no-repeat;font-size:0;color:transparent;
+			}
+
 			&:hover {
 				strong {
 					background-color: _palette(highlight);
