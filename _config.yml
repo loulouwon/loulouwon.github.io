@@ -2,32 +2,32 @@
 title: Forty
 subtitle: by HTML5 UP
 email: loulouwon@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Welcome to my portfolio site. Nice to meet you<br>My name is won mi rae.
 baseurl:  "" # the subpath of your site, e.g. "/blog"
 url: "https://loulouwon.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Dongjak-daero Dongjak-gu,
+city: Seoul,
+state: ""
+zip_code: ""
+country: Republic of Korea
+phone: 010.6717.5534
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/loulouwon
+github_url: https://github.com/loulouwon
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/w.mi_rae/
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
