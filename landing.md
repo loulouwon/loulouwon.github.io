@@ -1,8 +1,7 @@
 ---
 title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+layout: Skill Inventory
+image: assets/images/bg_skill.jpg
 nav-menu: true
 ---
 
