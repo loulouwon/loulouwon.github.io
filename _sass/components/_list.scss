@@ -142,7 +142,22 @@
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
 		}
 
-		dd {
-			margin-left: _size(element-margin);
+		&.about-box{
+			dt.tit span{
+				color: #9bf1ff;
+				font-size: 1.2em;
+				margin-left: 0.3125rem;
+			}
+			> dd > ul > li{
+				&:before{
+					content:'';
+					display:block;
+					width:3px;
+					height:3px;
+					background:#fff;
+				}
+			}
 		}
 	}
+
+
