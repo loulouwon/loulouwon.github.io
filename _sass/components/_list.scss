@@ -147,10 +147,12 @@
 .about-box {
 	position:relative;
 
-	.img_box{
+	.img-box{
 		position:absolute;
 		right:0;
-		top:10%;
+		top:0;
+		width:35%;
+		height:auto;
 	}
 
 	dl {
@@ -174,6 +176,12 @@
 				background: #fff;
 			}
 		}
+	}
+}
+
+@include breakpoint(small) {
+	.about-box .img-box{
+		position:inherit;
 	}
 }
 
