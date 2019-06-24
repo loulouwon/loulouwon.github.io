@@ -14,7 +14,7 @@ nav-menu: true
 			<h1>About me</h1>
 		</header>
 		<div class="about-box">
-            <div class="img-box"><img src="assets/images/img_photo.jpg" alt="photo"></div>
+            <div class="img-box"><img src="assets/images/img_photo.png" alt="photo"></div>
             <dl>
                 <dt class="tit">Web Publisher <span>Won Mi-Rae</span></dt>
                 <dd>
