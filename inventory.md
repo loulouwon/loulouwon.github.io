@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Skill Inventory
+image: assets/images/bg_skill.jpg
 nav-menu: true
+
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main">
 
 <!-- One -->
 <section id="one">
