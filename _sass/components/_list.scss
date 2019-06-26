@@ -175,14 +175,32 @@
 				height: 4px;
 				background: #fff;
 			}
+
+			em{
+				margin-left: 5px;
+				font-size: 0.938em;
+			}
 		}
 	}
 }
 
 @include breakpoint(small) {
-	.about-box .img-box{
-		position:inherit;
-		width:45%;
+	.about-box {
+		.img-box{
+			position:inherit;
+			width:45%;
+		}
+
+		dl > dd > ul > li{
+			ul li{
+				padding-left:0;
+
+				em{
+				display:block
+				}
+			}
+
+		}
 	}
 }
 
