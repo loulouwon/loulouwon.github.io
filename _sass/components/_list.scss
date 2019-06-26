@@ -191,9 +191,10 @@
 		width:18%;
 		margin-top:50px;
 		transition: all 0.5s;
-	}
-	&:hover{
-		transform: translateY(-15%) rotate(-10deg);
+
+		&:hover{
+			transform: translateY(-15%) rotate(-10deg);
+		}
 	}
 }
 
