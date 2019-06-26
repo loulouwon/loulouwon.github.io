@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'HELLO, WORLD.'
+landing-title: 'TrustWorthy Web Publisher :)'
 description: null
 image: null
 author: null
