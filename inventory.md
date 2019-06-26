@@ -3,7 +3,6 @@ layout: page
 title: Skill Inventory
 image: assets/images/bg_skill.jpg
 nav-menu: true
-
 ---
 
 <!-- Main -->
@@ -16,19 +15,20 @@ nav-menu: true
 			<h1>Skill Inventory</h1>
 		</header>
 		<ul class="skill-list">
-            <li><img src="assets/images/skill/img_skill01.jpg" alt="HTML5" title="HTML5" /></li>
-            <li><img src="assets/images/skill/img_skill02.jpg" alt="CSS3" title="CSS3" /></li>
-            <li><img src="assets/images/skill/img_skill03.jpg" alt="SASS" title="SASS" /></li>
-            <li><img src="assets/images/skill/img_skill04.jpg" alt="BOOTSTRAR" title="BOOTSTRAR" /></li>
-            <li><img src="assets/images/skill/img_skill05.jpg" alt="JAVASCRIPT" title="JAVASCRIPT" /></li>
-            <li><img src="assets/images/skill/img_skill06.jpg" alt="JQUERY" title="JQUERY" /></li>
-            <li><img src="assets/images/skill/img_skill07.jpg" alt="GULP" title="GULP" /></li>
-            <li><img src="assets/images/skill/img_skill08.jpg" alt="WEBPACK" title="WEBPACK" /></li>
-            <li><img src="assets/images/skill/img_skill09.jpg" alt="GIT" title="GIT" /></li>
-            <li><img src="assets/images/skill/img_skill10.jpg" alt="ATOM" title="ATOM" /></li>
-            <li><img src="assets/images/skill/img_skill11.jpg" alt="PHOTOSHOP" title="PHOTOSHOP" /></li>
-            <li><img src="assets/images/skill/img_skill12.jpg" alt="WEBSTROM" title="WEBSTROM" /></li>
-            <li><img src="assets/images/skill/img_skill13.jpg" alt="VSCODE" title="VSCODE" /></li>
+            <li><img src="assets/images/skill/img_skill01.png" alt="HTML5" title="HTML5" /></li>
+            <li><img src="assets/images/skill/img_skill02.png" alt="CSS3" title="CSS3" /></li>
+            <li><img src="assets/images/skill/img_skill03.png" alt="SASS" title="SASS" /></li>
+            <li><img src="assets/images/skill/img_skill04.png" alt="BOOTSTRAR" title="BOOTSTRAR" /></li>
+            <li><img src="assets/images/skill/img_skill05.png" alt="JAVASCRIPT" title="JAVASCRIPT" /></li>
+            <li><img src="assets/images/skill/img_skill06.png" alt="JQUERY" title="JQUERY" /></li>
+            <li><img src="assets/images/skill/img_skill14.png" alt="Vue" title="Vue" /></li>
+            <li><img src="assets/images/skill/img_skill07.png" alt="GULP" title="GULP" /></li>
+            <li><img src="assets/images/skill/img_skill08.png" alt="WEBPACK" title="WEBPACK" /></li>
+            <li><img src="assets/images/skill/img_skill09.png" alt="GIT" title="GIT" /></li>
+            <li><img src="assets/images/skill/img_skill10.png" alt="ATOM" title="ATOM" /></li>
+            <li><img src="assets/images/skill/img_skill11.png" alt="PHOTOSHOP" title="PHOTOSHOP" /></li>
+            <li><img src="assets/images/skill/img_skill12.png" alt="WEBSTROM" title="WEBSTROM" /></li>
+            <li><img src="assets/images/skill/img_skill13.png" alt="VSCODE" title="VSCODE" /></li>
         </ul>
     </div>
 </section>

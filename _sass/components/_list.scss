@@ -184,6 +184,19 @@
 	}
 }
 
+.skill-list{
+	text-align:center;
+	li{
+		display:inline-block;
+		width:18%;
+		margin-top:50px;
+		transition: all 0.5s;
+	}
+	&:hover{
+		transform: translateY(-15%) rotate(-10deg);
+	}
+}
+
 @include breakpoint(small) {
 	.about-box {
 		.img-box{
