@@ -349,10 +349,8 @@
 
 		//top button
 		$('.btn-top').on('click', function(e){
-			/*e.preventDefault();
-			$("html, body").animate({ scrollTop : 0 }, 800, "ease-in-out");*/
 			e.preventDefault();
-			alert('1111111111111');
+			$("html, body").animate({scrollTop : 0}, 500);
 		});
 	});
 
