@@ -1,8 +1,0 @@
----
-layout: allposts
-title: Projects
-image: assets/images/bg_projects.jpg
-nav-menu: false
----
-
-<h1>All posts</h1>
