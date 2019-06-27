@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: page
 title: Projects
 image: assets/images/bg_projects.jpg
 nav-menu: true
