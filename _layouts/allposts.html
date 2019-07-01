@@ -31,11 +31,13 @@
                 <li><a href="#none">2013</a></li>
                 <li><a href="#none">2012</a></li>
             </ul>
+            <div class="project-cont">
               {% for post in site.posts %}
                   {% if post.title != 404 %}
-                  <div class="project-cont"><div>{{ post.content }}</div></div>
+                  <div>{{ post.content }}</div>
                   {% endif %}
               {% endfor %}
+            </div>
         </div>
       </section>
 
