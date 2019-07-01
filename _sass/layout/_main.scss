@@ -41,7 +41,10 @@
 		}
 	}
 }
-.project-cont{
-	display:none;
 
+.project-cont{
+
+	> div{
+	display:none;
+	}
 }
