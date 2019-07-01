@@ -356,7 +356,7 @@
 		//Projects tab menu
 		$('.tab-year li').on('click',function(){
 			var idx = $(this).index();
-			$('.project-cont').index(idx).show();
+			$('.project-cont > div').index(idx).show();
 		});
 	});
 

@@ -33,7 +33,7 @@
             </ul>
               {% for post in site.posts %}
                   {% if post.title != 404 %}
-                  <div class="project-cont">{{ post.content }}</div>
+                  <div class="project-cont"><div>{{ post.content }}</div></div>
                   {% endif %}
               {% endfor %}
         </div>
