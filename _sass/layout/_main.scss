@@ -24,3 +24,21 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
+
+/* Projects */
+
+.tab-year{
+	padding-left:0;
+
+	li{
+		display:inline-block;
+		margin:0 1.250em 1.250em 0;
+		font-size:1.375em;
+		border:1px solid #fff;
+		padding:0.250em 0.938em;
+
+		a{
+			border-bottom:0;
+		}
+	}
+}
