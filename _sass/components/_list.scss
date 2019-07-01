@@ -201,6 +201,22 @@
 	}
 }
 
+.tab-year{
+	padding-left:0;
+
+	ul li{
+		display:inline-block;
+		margin:0 1.250em 1.250em 0;
+		font-size:1.375em;
+		border:1px solid #fff;
+		padding:0.250em 0.938em;
+
+		a{
+			border-bottom:0;
+		}
+	}
+}
+
 @include breakpoint(small) {
 	.about-box {
 		.img-box{
