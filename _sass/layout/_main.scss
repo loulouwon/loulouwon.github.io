@@ -36,6 +36,11 @@
 		border:1px solid #fff;
 		padding:0.250em 0.938em;
 
+		&.active{
+			border-color:#9bf1ff;
+			color:#9bf1ff;
+		}
+
 		a{
 			border-bottom:0;
 		}
