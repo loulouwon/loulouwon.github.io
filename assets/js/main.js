@@ -352,6 +352,12 @@
 			e.preventDefault();
 			$("html, body").animate({scrollTop : 0}, 500);
 		});
+
+		//Projects tab menu
+		$('.tab-year li').on('click',function(){
+			var idx = $(this).index();
+			$('.project-cont').index(idx).show();
+		});
 	});
 
 })(jQuery);
