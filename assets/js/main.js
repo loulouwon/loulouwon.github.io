@@ -354,12 +354,12 @@
 		});
 
 		//Projects tab menu
-		$('.project-cont > div').eq(0).show();
+		$('.project-cont > div').eq(0).fadeIn(300);
 		$('.tab-year li').on('click',function(evt){
 			var idx = $(this).index();
 			evt.preventDefault();
 			$(this).addClass('active').siblings().removeClass('active');
-			$('.project-cont > div').eq(idx).show().siblings().hide();
+			$('.project-cont > div').eq(idx).fadeIn(300).siblings().hide();
 		});
 	});
 
