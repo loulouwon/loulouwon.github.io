@@ -61,7 +61,15 @@
 		}
 
 		.projects-list{
+
+			&:after{
+				content:'';
+				display:block;
+				clear:both;
+			}
+
 			> li{
+				float:left;
 				width: 370px;
 				height: 590px;
 				background: #fff;
@@ -90,7 +98,6 @@
 						font-size:15px;
 						line-height:22px;
 						margin-top:6px;
-						font-weight:500;
 
 						.percent{
 							border-radius:15px;
