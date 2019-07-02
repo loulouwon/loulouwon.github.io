@@ -55,6 +55,10 @@
 		ul{
 			margin:0;
 			padding:0;
+
+			li{
+				padding:0;
+			}
 		}
 		p{
 			margin:0;
@@ -70,7 +74,7 @@
 
 			> li{
 				float:left;
-				width: 370px;
+				width: 30%;
 				height: 590px;
 				background: #fff;
 				border: 1px solid #e3e3e3;

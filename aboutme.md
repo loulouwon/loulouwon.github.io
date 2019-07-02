@@ -12,9 +12,22 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>About me</h1>
-		</header>
+		</header>                
 		<div class="about-box">
             <div class="img-box"><img src="assets/images/img_photo.png" alt="photo"></div>
+            <div>
+                <h2>WHO AM I?</h2>
+                <p>
+                 저는 하고 싶은 일에 대한 적극적인 자세와 도전 정신으로 보다 진취적이고 긍정적인 삶을 살아가려고 노력하는 사람입니다. 
+                 어떤 경험을 하던지 그를 통해 얻는 바가 있을 것이라는 소신이 있기 때문에 새로운 것을 시도하는데 망설임이 없는 편입니다. 
+                 웹디자인 및 웹 퍼블리싱의 경력을 통해 쇼핑몰, 증권사, 대학, 대기업 등등 여러 부문의 사이트 구축과 운영 경험을 고루 갖추고 있어 보다 넓은 실무 영역에 투입될 수 있는 인재라 자부합니다. 
+                </p>
+                <p>
+                 또한 단순한 작업자 이상으로 공동의 목표를 함께 고민하고, 요구 사항을 분석하면서 프로젝트를 성공으로 이끌기 위해 능동적으로 움직입니다.
+                 향후의 목표는 seo markup, css 방법론, css3 + svg 를 활용한 인터랙티브 UI 콘텐츠 제작, 자바스크립트 프레임워크 및 구동원리부터 JSON, 데이터 바인딩까지 다양한 기술을 좀 더 심도 있게 습득하여 
+                 단순 퍼블리셔가 아닌 웹 프런트 앤드 개발자로서 기술을 향상시키는 것이며, 이를 위해 끊임없이 공부하고 노력하고 있습니다.                   
+                </p>         
+            </div>
             <dl>
                 <dt class="tit">Web Publisher <span>Won Mi-Rae</span></dt>
                 <dd>
