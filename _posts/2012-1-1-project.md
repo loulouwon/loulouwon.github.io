@@ -5,7 +5,7 @@ description:
 ---
  <ul class="projects-list">
      <li>
-         <div class="img-box"><img src="images/projects/img_pf01.jpg" alt="지능형 로봇전문기업 지정신청" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf01.jpg" alt="지능형 로봇전문기업 지정신청" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]지능형 로봇전문기업 지정신청</li>
              <li><span>Works : </span>웹표준코딩</li>

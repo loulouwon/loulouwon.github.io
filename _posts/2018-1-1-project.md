@@ -5,7 +5,7 @@ description:
 ---
  <ul class="projects-list">
     <li>
-        <div class="img-box"><img src="images/projects/img_pf22.jpg" alt="인터파크 아이마켓" /></div>
+        <div class="img-box"><img src="assets/images/projects/img_pf22.jpg" alt="인터파크 아이마켓" /></div>
         <ul class="txt_info">
             <li><span>Client : </span>[Web&Mobile]인터파크 아이마켓</li>
             <li><span>Works : </span>리뉴얼 & 운영업무</li>

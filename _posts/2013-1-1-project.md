@@ -5,7 +5,7 @@ description:
 ---
  <ul class="projects-list">
  <li>
-         <div class="img-box"><img src="images/projects/img_pf09.jpg" alt="사회조사센터" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf09.jpg" alt="사회조사센터" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]사회조사센터</li>
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성 개선</li>
@@ -15,7 +15,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf08.jpg" alt="워커힐" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf08.jpg" alt="워커힐" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]워커힐</li>
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성마크획득</li>
@@ -26,7 +26,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf07.jpg" alt="행복나래" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf07.jpg" alt="행복나래" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]행복나래 &amp; SESCenter</li>
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성마크획득</li>
@@ -37,7 +37,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf06.jpg" alt="서울여자 간호대학" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf06.jpg" alt="서울여자 간호대학" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]서울여자 간호대학교(부속사이트 8개포함)</li>
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성마크획득</li>
@@ -48,7 +48,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf05.jpg" alt="CJ파워캐스트" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf05.jpg" alt="CJ파워캐스트" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]CJ파워캐스트</li>
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성 개선</li>
@@ -59,7 +59,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf04.jpg" alt="대웅제약 채용사이트" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf04.jpg" alt="대웅제약 채용사이트" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]대웅제약 채용사이트</li>
              <li><span>Works : </span>웹표준코딩</li>
@@ -70,7 +70,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf03.jpg" alt="미래에셋펀드서비스" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf03.jpg" alt="미래에셋펀드서비스" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]미래에셋펀드서비스</li>
              <li><span>Works : </span>웹표준코딩</li>
@@ -81,7 +81,7 @@ description:
          </ul>
      </li>
      <li>
-         <div class="img-box"><img src="images/projects/img_pf02.jpg" alt="외교통상부" /></div>
+         <div class="img-box"><img src="assets/images/projects/img_pf02.jpg" alt="외교통상부" /></div>
          <ul class="txt_info">
              <li><span>Client : </span>[Web]외교통상부(내부,외부시스템)</li>
              <li><span>Works : </span>웹표준코딩</li>
