@@ -165,13 +165,13 @@
 
 		span{
 			color: #9bf1ff;
-			font-size: 1.2em;
 			margin-left: 0.3125rem;
 		}
 	}
 
 	.txt{
 		font-size:0.938em;
+		text-align:justify;
 	}
 
 	.profile-box > li{
@@ -225,6 +225,11 @@
 		}
 
 		.profile-box > li{
+
+			&:before{
+				top:0.6rem;
+			}
+
 			ul li{
 				padding-left:0;
 
