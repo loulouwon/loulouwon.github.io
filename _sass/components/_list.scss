@@ -155,31 +155,31 @@
 		height:auto;
 	}
 
-	dl {
-		dt.tit span {
+	h3{
+		span {
 			color: #9bf1ff;
 			font-size: 1.2em;
 			margin-left: 0.3125rem;
 		}
+	}
 
-		> dd > ul > li {
-			position: relative;
+	.profile-box > li {
+		position: relative;
 
-			&:before {
-				content: '';
-				display: block;
-				position: absolute;
-				left: 0;
-				top: 0.75rem;
-				width: 4px;
-				height: 4px;
-				background: #fff;
-			}
+		&:before {
+			content: '';
+			display: block;
+			position: absolute;
+			left: 0;
+			top: 0.75rem;
+			width: 4px;
+			height: 4px;
+			background: #fff;
+		}
 
-			em{
-				margin-left: 5px;
-				font-size: 0.938em;
-			}
+		em{
+			margin-left: 5px;
+			font-size: 0.938em;
 		}
 	}
 }
@@ -208,7 +208,7 @@
 			width:45%;
 		}
 
-		dl > dd > ul > li{
+		.profile-box > li{
 			ul li{
 				padding-left:0;
 
