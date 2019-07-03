@@ -6,126 +6,126 @@
 
 /* List */
 
-	ol {
+	ol{
 		list-style: decimal;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1.25em;
 
-		li {
+		li{
 			padding-left: 0.25em;
 		}
 	}
 
-	ul {
+	ul{
 		list-style: none;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1em;
 
-		li {
+		li{
 			padding-left: 0.7em;
 		}
 
-		&.alt {
+		&.alt{
 			list-style: none;
 			padding-left: 0;
 
-			li {
+			li{
 				border-top: solid 1px _palette(border);
 				padding: 0.5em 0;
 
-				&:first-child {
+				&:first-child{
 					border-top: 0;
 					padding-top: 0;
 				}
 			}
 		}
 
-		&.icons {
+		&.icons{
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
 
-			li {
+			li{
 				display: inline-block;
 				padding: 0 1em 0 0;
 
-				&:last-child {
+				&:last-child{
 					padding-right: 0;
 				}
 			}
 
-			@include breakpoint(small) {
-				li {
+			@include breakpoint(small){
+				li{
 					padding: 0 0.75em 0 0;
 				}
 			}
 		}
 
-		&.actions {
+		&.actions{
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
 
-			li {
+			li{
 				display: inline-block;
 				padding: 0 (_size(element-margin) * 0.5) 0 0;
 				vertical-align: middle;
 
-				&:last-child {
+				&:last-child{
 					padding-right: 0;
 				}
 			}
 
-			&.small {
-				li {
+			&.small{
+				li{
 					padding: 0 (_size(element-margin) * 0.5) 0 0;
 				}
 			}
 
-			&.vertical {
-				li {
+			&.vertical{
+				li{
 					display: block;
 					padding: (_size(element-margin) * 0.5) 0 0 0;
 
-					&:first-child {
+					&:first-child{
 						padding-top: 0;
 					}
 
-					> * {
+					> *{
 						margin-bottom: 0;
 					}
 				}
 
-				&.small {
-					li {
-						&:first-child {
+				&.small{
+					li{
+						&:first-child{
 							padding-top: 0;
 						}
 					}
 				}
 			}
 
-			&.fit {
+			&.fit{
 				display: table;
 				margin-left: (_size(element-margin) * -0.5);
 				padding: 0;
 				table-layout: fixed;
 				width: calc(100% + #{(_size(element-margin) * 0.5)});
 
-				li {
+				li{
 					display: table-cell;
 					padding: 0 0 0 (_size(element-margin) * 0.5);
 
-					> * {
+					> *{
 						margin-bottom: 0;
 					}
 				}
 
-				&.small {
+				&.small{
 					margin-left: (_size(element-margin) * -0.5);
 					width: calc(100% + #{(_size(element-margin) * 0.5)});
 
-					li {
+					li{
 						padding: 0 0 0 (_size(element-margin) * 0.5);
 					}
 				}
@@ -133,10 +133,10 @@
 		}
 	}
 
-	dl {
+	dl{
 		margin: 0 0 _size(element-margin) 0;
 
-		dt {
+		dt{
 			display: block;
 			font-weight: _font(weight-bold);
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
@@ -144,7 +144,7 @@
 
 	}
 
-.about-box {
+.about-box{
 	position:relative;
 
 	.img-box{
@@ -155,31 +155,47 @@
 		height:auto;
 	}
 
+	h2{
+		margin-bottom:0.500em;
+	}
+
 	h3{
-		span {
+		font-size:1.35em;
+		margin-bottom:0.375em;
+
+		span{
 			color: #9bf1ff;
 			font-size: 1.2em;
 			margin-left: 0.3125rem;
 		}
 	}
 
-	.profile-box > li {
-		position: relative;
+	.txt{
+		font-size:0.938em;
+	}
 
-		&:before {
-			content: '';
-			display: block;
-			position: absolute;
-			left: 0;
-			top: 0.75rem;
-			width: 4px;
-			height: 4px;
-			background: #fff;
+	.profile-box > li{
+		position:relative;
+		font-size:0.938em;
+
+		&:before{
+			content:'';
+			display:block;
+			position:absolute;
+			left:0;
+			top:0.75rem;
+			width:4px;
+			height:4px;
+			background:#fff;
 		}
 
-		em{
-			margin-left: 5px;
-			font-size: 0.938em;
+		ul{
+			margin-top:0.375em;
+
+			em{
+				margin-left:5px;
+				font-size:0.938em;
+			}
 		}
 	}
 }
@@ -192,17 +208,17 @@
 		display:inline-block;
 		width:24%;
 		margin-top:5em;
-		transition: all 0.5s;
+		transition:all 0.5s;
 		vertical-align:middle;
 
 		&:hover{
-			transform: translateY(-15%) rotate(-10deg);
+			transform:translateY(-15%) rotate(-10deg);
 		}
 	}
 }
 
-@include breakpoint(small) {
-	.about-box {
+@include breakpoint(small){
+	.about-box{
 		.img-box{
 			position:inherit;
 			width:45%;
@@ -222,8 +238,8 @@
 
 	.skill-list{
 		li{
-			width: 35%;
-			margin: 1.875em 1.250em;
+			width:35%;
+			margin:1.875em 1.250em;
 			padding-left: 0;
 		}
 	}
