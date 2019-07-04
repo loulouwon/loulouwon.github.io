@@ -140,8 +140,8 @@
 	.projects-list{
 
 		> li{
-			float:inherit;
-			width:100%;
+			float:inherit!important;
+			width:100%!important;;
 		}
 	}
 }
