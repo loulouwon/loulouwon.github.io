@@ -88,9 +88,13 @@
 					margin-left:0
 				}
 
-				.img-box img{
-					display:inline-block;
-					margin-top:30px;
+				.img-box{
+					padding:0 0.625em;
+
+					img{
+						display:inline-block;
+						margin-top:30px;
+					}
 				}
 
 				.txt_info{
@@ -121,6 +125,23 @@
 					}
 				}
 			}
+		}
+	}
+}
+
+@include breakpoint(small){
+	.tab-year li{
+		margin: 0 0.313em 0.313em 0;
+		width:30%;
+		text-align:center;
+		box-sizing:border-box;
+	}
+
+	.projects-list{
+
+		> li{
+			float:inherit;
+			width:100%;
 		}
 	}
 }
