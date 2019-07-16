@@ -21,7 +21,7 @@ description:
                 <li><span>Works : </span>라인 글로벌 광고 플랫폼 개발</li>
                 <li><span>Skills :</span> <p>Html5 / Css3 / Vue.js / Webstrom / IntelliJ</p></li>
                 <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-                <li><span>Date : </span>2019.01 ~ 2019.08</li>                
+                <li><span>Date : </span>2019.02 ~ 2019.08</li>                
             </ul>
         </li>
     <li>
