@@ -20,7 +20,7 @@ description:
          <ul class="txt_info">
              <li><span>Client : </span>[Web] 남서울오토허브 중고차 매매 사이트</li>
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성준수</li>
-             <li><span>Skills :</span> <p>HTML5 / Scss / React / Javascript / Gulp / Github / Webstrom</p></li>
+             <li><span>Skills :</span> <p>HTML5 / Scss / React.js / Javascript / Gulp / Github / Webstrom</p></li>
              <li><span>Participation : </span><p class="percent" style="width:50%">50%</p></li>
              <li><span>Date : </span>2017.04 ~ 2017.07</li>
          </ul>
