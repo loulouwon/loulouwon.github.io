@@ -52,7 +52,7 @@
 	> div{
 		display:none;
 
-		ul{
+		> ul{
 			margin:0;
 			padding:0;
 
@@ -73,15 +73,11 @@
 			}
 
 			> li{
-				float:left;
-				width: 30%;
-				height: 600px;
+				flex:1;
 				background: #fff;
 				border: 1px solid #e3e3e3;
 				border-radius: 10px;
-				box-shadow: 4px 6px 6px rgba(0,0,0,0.5);
-				margin: 0 1.176em 2.353em;
-				padding-bottom:1.176em;
+				box-shadow: 4px 6px 6px rgba(0,0,0,0.5);								
 				text-align: center;
 				box-sizing:border-box;
 				vertical-align: middle;
