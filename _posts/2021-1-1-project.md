@@ -5,7 +5,7 @@ description:
 ---
  <ul class="projects-list">
     <li>
-        <div class="img-box"><img src="assets/images/projects/img_pf24.jpg" alt="롯데 칠성몰" /></div>
+        <div class="img-box"><img src="assets/images/projects/img_pf27.jpg" alt="롯데 칠성몰" /></div>
         <ul class="txt_info">
             <li><span>Client : </span>[Web&Mobile] 롯데 칠성몰, 무인양품, 콘란샵</li>
             <li><span>Works : </span>리뉴얼 & 운영업무</li>
@@ -14,6 +14,4 @@ description:
             <li><span>Date : </span>2021.01 ~ 2024.03</li>          
         </ul>
     </li>
-   <li></li>
-   <li></li>
 </ul>

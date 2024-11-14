@@ -5,7 +5,7 @@ description:
 ---
  <ul class="projects-list">
     <li>
-        <div class="img-box"><img src="assets/images/projects/img_pf24.jpg" alt="불법사행산업감시신고센터" /></div>
+        <div class="img-box"><img src="assets/images/projects/img_pf29.jpg" alt="불법사행산업감시신고센터" /></div>
         <ul class="txt_info">
             <li><span>Client : </span>[Web&Mobile] 불법사행산업감시신고센터</li>
             <li><span>Works : </span>반응형 웹 리뉴얼 & 웹접근성 준수</li>
@@ -15,7 +15,7 @@ description:
         </ul>
     </li>
     <li>
-        <div class="img-box"><img src="assets/images/projects/img_pf23.jpg" alt="연합뉴스 헬로아카이브" /></div>
+        <div class="img-box"><img src="assets/images/projects/img_pf28.jpg" alt="연합뉴스 헬로아카이브" /></div>
         <ul class="txt_info">
             <li><span>Client : </span>[Mobile] 연합뉴스 헬로아카이브</li>
             <li><span>Works : </span>모바일 웹 구축 & 웹접근성 준수</li>

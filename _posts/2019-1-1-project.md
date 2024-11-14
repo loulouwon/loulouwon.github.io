@@ -5,7 +5,7 @@ description:
 ---
  <ul class="projects-list">
     <li>
-        <div class="img-box"><img src="assets/images/projects/img_pf24.jpg" alt="제일제당 더마켓" /></div>
+        <div class="img-box"><img src="assets/images/projects/img_pf25.jpg" alt="제일제당 더마켓" /></div>
         <ul class="txt_info">
             <li><span>Client : </span>[Web&Mobile] 제일제당 더마켓</li>
             <li><span>Works : </span>리뉴얼 & 운영업무</li>
@@ -15,7 +15,7 @@ description:
         </ul>
     </li>
     <li>
-        <div class="img-box"><img src="assets/images/projects/img_pf24.jpg" alt="제일제당 더마켓" /></div>
+        <div class="img-box"><img src="assets/images/projects/img_pf26.jpg" alt="제일제당 쿡킷" /></div>
         <ul class="txt_info">
             <li><span>Client : </span>[Web&Mobile] 제일제당 쿡킷</li>
             <li><span>Works : </span>리뉴얼 & 운영업무</li>
