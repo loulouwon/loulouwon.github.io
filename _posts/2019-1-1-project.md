@@ -23,6 +23,5 @@ description:
             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
             <li><span>Date : </span>2019.09 ~ 2020.11</li>          
         </ul>
-    </li>
-    <li></li>
+    </li>    
 </ul>
