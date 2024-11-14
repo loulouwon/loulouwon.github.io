@@ -27,7 +27,7 @@ nav-menu: true
             <li><img src="assets/images/skill/img_skill09.png" alt="GIT" title="GIT" /></li>
             <li><img src="assets/images/skill/img_skill10.png" alt="WEBSTROM" title="WEBSTROM" /></li>
             <li><img src="assets/images/skill/img_skill11.png" alt="ATOM" title="ATOM" /></li>
-            <li><img src="assets/images/skill/img_skill15.png" alt="VSCODE" title="VSCODE" /></li>
+            <li><img src="assets/images/skill/img_skill15.png" alt="VSCODE" title="VSCODE" width="170" /></li>
             <li><img src="assets/images/skill/img_skill13.png" alt="PHOTOSHOP" title="PHOTOSHOP" /></li>
             <li><img src="assets/images/skill/img_skill16.png" alt="zeplin" title="zeplin" /></li>
             <li><img src="assets/images/skill/img_skill17.png" alt="figma" title="figma" /></li>
