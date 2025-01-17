@@ -11,7 +11,7 @@ description:
             <li><span>Works : </span>리뉴얼 & 운영업무</li>
             <li><span>Skills :</span> <p>Html5 / Css3 / Javascript / jQuery / Git / Jira / VScode</p></li>
             <li><span>Participation : </span><p class="percent" style="width:50%">50%</p></li>
-            <li><span>Date : </span>2019.09 ~ 2020.11</li>          
+            <li><span>Date : </span>2019.09 ~ 2020.09</li>          
         </ul>
     </li>
     <li>
@@ -21,7 +21,7 @@ description:
             <li><span>Works : </span>리뉴얼 & 운영업무</li>
             <li><span>Skills :</span> <p>Html5 / Css3 / Javascript / jQuery / Git / Jira / VScode</p></li>
             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-            <li><span>Date : </span>2019.09 ~ 2020.11</li>          
+            <li><span>Date : </span>2019.09 ~ 2020.09</li>          
         </ul>
     </li>    
 </ul>

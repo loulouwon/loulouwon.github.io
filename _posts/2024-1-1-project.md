@@ -19,7 +19,7 @@ description:
         <ul class="txt_info">
             <li><span>Client : </span>[Mobile] 연합뉴스 헬로아카이브</li>
             <li><span>Works : </span>모바일 웹 구축 & 웹접근성 준수</li>
-            <li><span>Skills :</span> <p>Html5 / Css3 / Javascript / jQuery / Git / Figma / VScode</p></li>
+            <li><span>Skills :</span> <p>Html5 / Css3 / React / Javascript / Git / Figma / VScode / Slack</p></li>
             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
             <li><span>Date : </span>2024.06 ~ 2024.08</li>                
         </ul>
