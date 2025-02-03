@@ -33,7 +33,7 @@ nav-menu: true
                         <li>- (주)위세아이텍 (프리랜서) <em>2024.08 ~ 2024.11</em></li>
                         <li>- SBSi (프리랜서) <em>2024.06 ~ 2024.08</em></li>
                         <li>- 롯데쇼핑㈜ e커머스사업본부 (프리랜서) <em>2021.01 ~ 2024.03</em></li>
-                        <li>- CJ 디아이웨어 (대리) <em>2019.09 ~ 2020.11</em></li>
+                        <li>- CJ 디아이웨어 (프리랜서) <em>2019.09 ~ 2020.09</em></li>
                         <li>- 프리랜서 <em>2017.04 ~ 2019.08</em></li>
                         <li>- 에코시안 (선임연구원) <em>2016.03 ~ 2017.03</em></li>
                         <li>- (주)애드캡슐소프트 (주임) <em>2015.04 ~ 2016.02</em></li>
@@ -56,16 +56,16 @@ nav-menu: true
                 </li>
                 <li><span>Certificates :</span>
                     <ul>
-                        <li>- (Oracle) OCJP 6.0V</li>
-                        <li>- (국가공인) GTQ그래픽 기술자격 2급</li>
+                        <li>- OCJP-Oracle <em>2018.04</em></li>
+                        <li>- (국가공인) GTQ그래픽 기술자격 2급 <em>2011.05</em></li>
                     </ul>
                 </li>
                 <li><span class="txt-org">Technical Skills :</span>
                     <ul>
-                        <li>photoshop / Zeplin / Figma</li>
-                        <li>html5 / css3 / scss / javascript / jquery / Vue.js / React.js / </li>
-                        <li>gulp / webpack / git /</li>
-                        <li>웹표준 / 웹접근성 / Web Performance</li>
+                        <li>Photoshop / Zeplin / Figma / </li>
+                        <li>Html5 / Css3 / Scss / Less / Bootstrap / Tailwind / Javascript / Jquery / TypeScript /  </li>
+                        <li>Vue / React / Next.js / Nuxt.js / Webpack / Vite / Git /</li>
+                        <li>웹표준 / 웹접근성 / Seo / Web Performance</li>
                     </ul>
                 </li>
             </ul>           
