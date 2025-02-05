@@ -4,38 +4,6 @@ title: 2013 프로젝트
 description: 
 ---
  <ul class="projects-list">
- <li>
-         <div class="img-box"><img src="assets/images/projects/img_pf09.jpg" alt="사회조사센터" /></div>
-         <ul class="txt_info">
-             <li><span>Client : </span>[Web] 사회조사센터</li>
-             <li><span>Works : </span>웹표준코딩 &amp; 웹접근성 개선</li>
-             <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Dreamweaver</p></li>
-             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-             <li><span>Date : </span>2013.11 ~ 2013.12</li>
-         </ul>
-     </li>
-     <li>
-         <div class="img-box"><img src="assets/images/projects/img_pf08.jpg" alt="워커힐" /></div>
-         <ul class="txt_info">
-             <li><span>Client : </span>[Web] 워커힐</li>
-             <li><span>Works : </span>웹표준코딩 &amp; 웹접근성마크획득</li>
-             <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Dreamweaver / Openwax</p></li>
-             <li><span>Participation : </span><p class="percent" style="width:80%">80%</p></li>
-             <li><span>Date : </span>2013.10 ~ 2013.11</li>
-             <li><span>URL : </span><a href="http://www.walkerhill.co.kr" target="_blank">www.walkerhill.co.kr</a></li>
-         </ul>
-     </li>
-     <li>
-         <div class="img-box"><img src="assets/images/projects/img_pf07.jpg" alt="행복나래" /></div>
-         <ul class="txt_info">
-             <li><span>Client : </span>[Web] 행복나래 &amp; SESCenter</li>
-             <li><span>Works : </span>웹표준코딩 &amp; 웹접근성마크획득</li>
-             <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Dreamweaver / Openwax</p></li>
-             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-             <li><span>Date : </span>2013.08 ~ 2013.09</li>
-             <li><span>URL : </span><a href="http://www.happynarae.co.kr/" target="_blank">www.happynarae.co.kr</a></li>
-         </ul>
-     </li>
      <li>
          <div class="img-box"><img src="assets/images/projects/img_pf06.jpg" alt="서울여자 간호대학" /></div>
          <ul class="txt_info">
@@ -43,7 +11,7 @@ description:
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성마크획득</li>
              <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Dreamweaver / Openwax</p></li>
              <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-             <li><span>Date : </span>2013.06 ~ 2013.12</li>
+             <li><span>Date : </span>2013.06 ~ 2013.11</li>
              <li><span>URL : </span><a href="http://www.snjc.ac.kr/" target="_blank">www.snjc.ac.kr</a></li>
          </ul>
      </li>
@@ -67,17 +35,6 @@ description:
              <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
              <li><span>Date : </span>2013.03 ~ 2013.04</li>
              <li><span>URL : </span><a href="http://recruit.daewoong.co.kr/" target="_blank">recruit.daewoong.co.kr</a></li>
-         </ul>
-     </li>
-     <li>
-         <div class="img-box"><img src="assets/images/projects/img_pf03.jpg" alt="미래에셋펀드서비스" /></div>
-         <ul class="txt_info">
-             <li><span>Client : </span>[Web] 미래에셋펀드서비스</li>
-             <li><span>Works : </span>웹표준코딩</li>
-             <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Dreamweaver</p></li>
-             <li><span>Participation : </span><p class="percent" style="width:80%">80%</p></li>
-             <li><span>Date : </span>2013.03 ~ 2013.05</li>
-             <li><span>URL : </span><a href="http://fs.miraeasset.com/" target="_blank">fs.miraeasset.com</a></li>
          </ul>
      </li>
      <li>
