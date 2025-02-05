@@ -11,7 +11,7 @@ description:
             <li><span>Works : </span>네이버 배너 광고 메이커 사이트 구축</li>
             <li><span>Skills :</span> <p>Html5 / Scss / Vue / Javascript / Git / Webstrom / IntelliJ</p></li>
             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-            <li><span>Date : </span>2018.09 ~ 2019.09</li>          
+            <li><span>Date : </span>2019.02 ~ 2019.09</li>          
         </ul>
     </li>
     <li>
@@ -21,7 +21,7 @@ description:
             <li><span>Works : </span>라인 글로벌 광고 플랫폼 개발</li>
             <li><span>Skills :</span> <p>Html5 / Scss / Vue / Javascript / Git / Webstrom / IntelliJ</p></li>
             <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-            <li><span>Date : </span>2018.09 ~ 2019.09</li>                
+            <li><span>Date : </span>2019.02 ~ 2019.09</li>                
         </ul>
     </li>
     <li>

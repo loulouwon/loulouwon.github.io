@@ -11,7 +11,7 @@ description:
              <li><span>Works : </span>롯데그룹사 운영업무</li>
              <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Atom</p></li>
              <li><span>Participation : </span><p class="percent" style="width:100%">100%</p></li>
-             <li><span>Date : </span>2015.10 ~ 2016.02</li>
+             <li><span>Date : </span>2015.12 ~ 2016.02</li>
          </ul>
      </li>       
  </ul>

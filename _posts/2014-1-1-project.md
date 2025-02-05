@@ -43,7 +43,7 @@ description:
              <li><span>Works : </span>웹표준코딩 &amp; 웹접근성 개선</li>
              <li><span>Skills :</span> <p>Html / Css / Javascript / jQuery / Dreamweaver</p></li>
              <li><span>Participation : </span><p class="percent" style="width:50%">50%</p></li>
-             <li><span>Date : </span>2013.12 ~ 2014.06 </li>
+             <li><span>Date : </span>2014.03 ~ 2014.06 </li>
              <li><span>URL : </span><a href="http://open.smartmiraeasset.com/mirae.jsp" target="_blank">http://open.smartmiraeasset.com/mirae.jsp</a></li>
          </ul>
      </li>     
